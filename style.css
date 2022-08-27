@@ -34,12 +34,22 @@ margin-left: 53vw;
 }
 
 img {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
   width: 90%;
   border-radius: 20px;
 }
+hr{
+margin-top: 10vh;
+width: 90%;
+height: 50%;
+background-color: white;
 
+}
 h1 {
-
   color: white;
 }
 
