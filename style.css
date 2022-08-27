@@ -25,10 +25,17 @@ body {
   /* background-color: rgb(0, 0, 0); */
 }
 .mainHeader {
+  font-size: 2em;
   font-family: Helvetica Neue;
   /* font-family: 'Roboto', sans-serif; */
   margin-left: 5vw;
 }
+
+a{
+
+  color: white;
+}
+
 
 .mainHeaderSub{
   font-family: Helvetica Neue;
